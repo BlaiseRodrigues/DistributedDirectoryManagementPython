@@ -1,4 +1,4 @@
-# DistributedDirectoryManagementPython
+# DistributedDirectoryManagementPython3
 
 A Client Server Directory Management using Python and Tkinter for UI.
 
